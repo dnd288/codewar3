@@ -1,0 +1,7 @@
+{
+  "name": "janus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

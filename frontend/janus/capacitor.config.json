@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "janus",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
